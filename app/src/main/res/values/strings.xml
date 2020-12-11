@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="my_cards">My Cards</string>
+    <string name="repertory">Repertory</string>
+    <string name="nfc">NFC properties</string>
+    <string name="purchase">Purchase</string>
+    <string name="new_card">New card</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="company_name">Company name</string>
+    <string name="job_position">Job position</string>
+    <string name="mail_adress">Email address</string>
+    <string name="phone_number">Phone number</string>
+    <string name="save_card">Save card</string>
+    <string name="back_menu">Back to menu</string>
+    <string name="modify">Modify</string>
+</resources>
